@@ -1,6 +1,6 @@
 <p align="center">
   
-  <img align="center" src="https://raw.githubusercontent.com/facebook6ix9ine/facebook6ix9ine/master/welcome.gif" alt="Welcome banner" />
+  <img align="center" src="https://raw.githubusercontent.com/facebook6ix9ine/facebook6ix9ine/master/gif/welcome.gif" alt="Welcome banner" />
   <br/><br/>
    <br/>
     <img align="right" width="450px" alt="GIF" src="https://raw.githubusercontent.com/facebook6ix9ine/facebook6ix9ine/master/ror.gif" />
