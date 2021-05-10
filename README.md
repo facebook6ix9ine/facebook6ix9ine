@@ -1,9 +1,9 @@
 <p align="center">
   
-  <img align="center" src="https://raw.githubusercontent.com/facebook6ix9ine/facebook6ix9ine/master/gif/welcome.gif" alt="Welcome banner" />
+  <img align="center" src="https://raw.githubusercontent.com/facebook6ix9ine/facebook6ix9ine/main/gif/welcome.gif?token=AT4HDR6L7T3OFGE2NOZKB4LATFTNA" />
   <br/><br/>
    <br/>
-    <img align="right" width="450px" alt="GIF" src="https://raw.githubusercontent.com/facebook6ix9ine/facebook6ix9ine/master/gif/ror.gif" />
+    <img align="right" width="450px" alt="GIF" src="https://raw.githubusercontent.com/facebook6ix9ine/facebook6ix9ine/main/gif/ror.gif?token=AT4HDR777W5KHZ4AMD2MBA3ATFTJC" />
     
 </p>
 <p align="center">
