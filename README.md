@@ -4,7 +4,7 @@
 
 B.Tech CSE Final Year @ GL Bajaj Institute of Technology & Management, Greater Noida
 
-🌐 [![Portfolio](https://img.shields.io/badge/Portfolio-E8C518...)](https://kunal-singh69.netlify.app)
+🌐 [![Portfolio](https://img.shields.io/badge/⚗_[Ku]_kunal--singh69.netlify.app-E8C518?style=for-the-badge&logoColor=black)](https://kunal-singh69.netlify.app)
 
 ---
 
