@@ -1,4 +1,5 @@
-![Say My Name](https://raw.githubusercontent.com/facebook6ix9ine/facebook6ix9ine/main/say_my_name.gif)
+![Say My Name](https://raw.githubusercontent.com/facebook6ix9ine/facebook6ix9ine/main/say%20my%20name.gif)
+
 
 # Hi, I'm Kunal Singh 👋
 
