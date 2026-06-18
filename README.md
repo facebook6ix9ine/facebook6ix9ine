@@ -4,6 +4,7 @@
 
 B.Tech CSE Final Year @ GL Bajaj Institute of Technology & Management, Greater Noida
 
+🌐 Portfolio: kunal-singh69.netlify.app
 ---
 
 ### 🤖 What I Do
