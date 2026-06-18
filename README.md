@@ -4,7 +4,7 @@
 
 B.Tech CSE Final Year @ GL Bajaj Institute of Technology & Management, Greater Noida
 
-🌐 [![Portfolio](https://img.shields.io/badge/⚗_[Ku]_kunal--singh69.netlify.app-E8C518?style=for-the-badge&logoColor=black)](https://kunal-singh69.netlify.app)
+🌐 **Portfolio:** [kunal-singh69.netlify.app](https://kunal-singh69.netlify.app)
 
 ---
 
@@ -49,10 +49,11 @@ B.Tech CSE Final Year @ GL Bajaj Institute of Technology & Management, Greater N
 
 ### 📫 Connect
 
+[![Say My Name](https://img.shields.io/badge/⚗_Say_My_Name-E8C518?style=for-the-badge&logoColor=black)](https://kunal-singh69.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunal-singh-aosp)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/facebook6ix9ine)
+[![Email](https://img.shields.io/badge/Email-CC2200?style=flat-square&logo=gmail&logoColor=white)](mailto:kandkusers@gmail.com)
 
 ---
 
 *"I didn't take a course to learn AOSP. I just broke things until they worked."*
-
